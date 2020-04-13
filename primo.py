@@ -8,4 +8,4 @@ else:
       break
     else:
       print('El número no es primo')
-      break
+      break 
