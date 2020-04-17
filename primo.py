@@ -7,5 +7,5 @@ else:
       print('El número no es primo')
       break
     else:
-      print('El número no es primo')
+      print('El número es primo')
       break
